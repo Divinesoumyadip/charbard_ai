@@ -15,5 +15,6 @@ python train.py config/train_shakespeare_char.py --device=cpu --compile=False
 python sample.py --out_dir=out-shakespeare-char --device=cpu
 \\\
 
-## Credit
-Based on nanoGPT by @karpathy (MIT License).
+## Acknowledgments
+- Based on nanoGPT by [@karpathy](https://github.com/karpathy) (MIT License)
+- Built with setup and guidance from Claude (Anthropic)
